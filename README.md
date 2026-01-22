@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-01-22 at 15 25 14](https://github.com/user-attachments/assets/e34f5ec4-8715-426a-ae55-e23098e8b31f)## Create-a-datacenter-with-one-host-and-run-one-cloudlet-on-it.
+## Create-a-datacenter-with-one-host-and-run-one-cloudlet-on-it.
 
 
 ## Experiment 
@@ -371,7 +371,7 @@ The simulation displays:
 
 Add the console output screenshot in the `output/` folder and name it as `simulation_output.png`.
 
-
+![WhatsApp Image 2026-01-22 at 15 25 14](https://github.com/user-attachments/assets/e34f5ec4-8715-426a-ae55-e23098e8b31f)
 
 ##  Applications
 
